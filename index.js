@@ -7,11 +7,13 @@ const divide = () => {
 
 const squre = (x) => {
     return x * x
-    }
+}
 
 // This function takes two numbers and adds them together and returns the result.
 
 const add = (a,b) => {
-        return a + b
-    }  
+    let a = 3;
+    let b = 4;
+    return a + b
+}  
  // end of add
